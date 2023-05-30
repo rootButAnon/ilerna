@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test 1 Orientacion adm</title>
+    <script src="../pregunta.js"></script>
+    <style>
+      body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        max-width: 100vw;
+        width: 100vw;
+        height: 100vh;
+        max-height: 100vh;
+        background-color: rgb(151, 173, 165);
+      }
+      menu {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 20px;
+        justify-content: center;
+      }
+
+      .pregunta {
+        display: flex;
+        flex-direction: column;
+      }
+      .listaPreguntas {
+        display: flex;
+        flex-direction: column;
+      }
+      .badQuestion {
+        border: 4px solid rgb(103, 57, 57);
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Test 1</h1>
+    <main>
+    <button class="corregirButton" id="corregir" onclick="corregirTest(event)">Corregir</button>
+      <div class="tablaPreguntas" id="tablaPreguntas">
+        
+      </div>
+      <div id="result">
+        <p>Por aqúí tienes el resultado del test</p>
+        <p id="resultado"></p>
+      </div>
+      <button class="corregirButton" id="Corregir" onclick="corregirTest(event)">Corregir</button>
+    </main>
+
+    <script src="../content.js"></script>
+    <script>
+      readFile("./test1.txt");
+      document.addEventListener('correccion', function (event){
+        console.log('Recibido')
+        console.log(event.detail)
+      })
+    </script>
+  </body>
+</html>

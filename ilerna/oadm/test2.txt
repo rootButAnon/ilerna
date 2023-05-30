@@ -1,0 +1,100 @@
+1- ​Relacionado con la estructura del sistema sanitario, ¿qué organismo propone y ejecuta las directrices del gobierno sobre política sanitaria?
+a) El Consejo Interterritorial de Salud
+b) El Ministerio
+c) La Consejería
+d) Las zonas básicas de salud
+2- La Unión Europea:
+a) Es un organismo del sistema de las Naciones Unidas (ONU) que lidera los asuntos sanitarios internacionales
+b) Es la encargada de coordinar las decisiones del Ministerio con los servicios de salud de las Comunidades Autónomas
+c) Está integrada por 192 estados miembros
+d) Todas son falsas
+3- La _____ trata de reducir la prevalencia de una determinada enfermedad sobre un grupo de población. Pretende detectar la enfermedad en estadios precoces para frenar su evolución y acortar la duración:
+a) Prevención primaria
+b) Prevención secundaria
+c) Prevención terciaria
+d) Ninguna
+4- La promoción de la salud:
+a) Da a la población pautas llevar hábitos y un estilo de vida saludable
+b) Da a la población los medios necesarios para controlar y mejorar su propia salud
+c) Es un objetivo de la salud comunitaria
+d) Todas son verdaderas
+5- ____ se encarga de la atención directa a los pacientes: programación de visitas y pruebas, entrega de recetas con validación sanitaria, trámites de elección y cambio de médico, solicitud de copia de historia clínica, etc.:
+a) El equipo de enfermería
+b) El equipo de atención primaria
+c) La unidad de atención al usuario
+d) La zona básica de salud
+6- Señala la función básica de un hospital INCORRECTA:
+a) Asistencial
+b) Docente
+c) Comercial
+d) Investigadora
+7- En relación a las funciones básicas de un hospital, la hospitalización en régimen de internamiento forma parte de la función:
+a) Investigadora
+b) Asistencial
+c) Docente
+d) Comercial
+8- Señala la actividad de atención primaria CORRECTA:
+a) Administración de curas
+b) Derivación de pacientes a la asistencia especializada
+c) Atención a programas específicos para grupos de población concretos
+d) Todas son correctas
+9- En relación a las funciones del Equipo de Atención Primaria, señala la función INCORRECTA:
+a) Presta asistencia sanitaria básica de forma ambulatoria o domiciliaria, programada o de urgencia, coordinandose con los servicios especiales
+b) Hace el diagnóstico de salud de la zona, para conocer el nivel y la consecución de objetivos
+c) Hospitaliza en régimen de internamiento
+d) Lleva a cabo la prevención de las enfermedades identificadas en ese diagnóstico de salud
+10- ¿Cuál es el orden correcto de las etapas del Proceso de Atención de Enfermería (PAE)?
+a) Diagnóstico de enfermería, evaluación, planificación, ejecución, valoración
+b) Valoración, planificación, diagnóstico de enfermería, ejecución, evaluación
+c) Planificación. valoración, diagnóstico de enfermería, planificación, ejecución, evaluación
+d) Valoración, diagnóstico de enfermería, planificación, ejecución, evaluación
+11- En relación a la Historia Clínica, indica la afirmación CORRECTA:
+a) Es el conjunto de documentos generados a lo largo de la atención sanitaria a un paciente
+b) Los documentos están relacionados con las enfermedades y los problemas de salud del paciente
+c) Su función principal es la asistencial
+d) Todas son correctas
+12- Señala el documento que pertenece a la Historia Clínica en Atención Primaria:
+a) Informe de Urgencias
+b) Anamnesis y exploración física
+c) Lista de problemas
+d) Valoración de enfermería
+13- Enrelaciónalmantenimientoyconservacióndelahistoriaclínica,elarchivo activo:
+a) Son las documentaciones que han sido modificadas o actualizadas recientemente
+b) Está integrado por aquellas historias que no han circulado en los últimos 10 años
+c) Está integrado por aquellas historias que no han circulado en los últimos veinte años
+d) Son los documentos de los pacientes fallecidos
+14- En relación a la economía sanitaria, en el sector privado:
+a) El objetivo principal es la obtención de máximo beneficio
+b) La contabilidad se rige por el Plan General de Contabilidad de las empresas privadas
+c) Es un mercado abierto en el que los proveedores de salud compiten por los clientes
+d) Todos son correctas
+15- La factura es:
+a) El documento que informa al cliente del coste de determinados productos
+b) La solicitud formal y en firme al proveedor de un determinado material
+c) El documento mercantil que acredita la entrega del pedido, sirve como justificante
+d) El documento que certifica cómo se ha desarrollado una operación y detalla la compraventa o prestación de servicios; indicando naturaleza, cantidades, precio y demás condiciones
+16- En relación al grupo A de la clasificación ABC, señala la afirmación CORRECTA:
+a) Son artículos de pequeño valor monetario
+b) Deben existir gran cantidad de unidades por su gran consumo
+c) Necesitan un control menos estricto
+d) Son los artículos de gran valor monetario
+17- El almacén:
+a) Es una infraestructura para guardar bienes dentro de la cadena de suministro hasta su uso en otras unidades de organización
+b) Evita las pérdidas y deterioros de las existencias almacenadas
+c) Tiene como objetivo mantener unas existencias suficientes de productos y materiales que garantice la continuidad de las funciones de todo el conjunto
+d) Todas son correctas
+18- En cuanto a la valoración de existencias, señala la opción CORRECTA:
+a) El método FIFO se traduce como “el primero que entra es el primero que sale”
+b) El método LIFO se traduce como “ el último que entra, el primero que sale”
+c) El método PMP significa Precio Medio Ponderado
+d) Todas son correctas
+19- Señala la opción CORRECTA sobre la ficha de almacén:
+a) Sirve para verificar que las existencias registradas en las fichas están realmente en el almacén
+b) A través de ella se lleva a cabo el registro continuo de entradas y salidas de mercancías
+c) Debe realizarse cada cierto tiempo
+d) Consiste en el recuento manual de todos los artículos en stock
+20- El Inventario permanente:
+a) Es el mínimo que tienen establecido todas las organizaciones
+b) Se revisan diariamente las existencias de los artículos que han registrado movimiento durante la jornada
+c) Se realiza un inventario parcial con frecuencias establecidas según el valor de los artículos
+d) Ninguna es correcta
