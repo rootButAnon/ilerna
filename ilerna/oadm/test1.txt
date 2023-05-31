@@ -1,100 +1,100 @@
-1- ​Relacionado con la estructura del sistema sanitario, ¿qué organismo es el encargado de coordinar las decisiones del Ministerio con los servicios de salud de las Comunidades Autónomas​?:
-a) El Consejo Interterritorial de Salud
-b) Ingesa
-c) Servicio Regional de Salud
-d) Consejería.
-2- ​ La Organización Mundial de la Salud:
-a) Es un organismo del sistema de las Naciones Unidas (ONU) que lidera los asuntos sanitarios internacionales
-b) Vigila las tendencias sanitarias en todo el planeta
-c) Realiza recomendaciones de atención primaria
+1- El objetivo de la promoción de la salud es:
+a) Incidir en cambios determinantes de las condiciones de vida
+b) Mejorar la salud y la calidad de vida poblacionales
+c) Influir en decisiones de políticas públicas
+d) Todas las respuestas son correctas
+2- Los programas de prevención primaria:
+a) Tratan de mejorar las condiciones de vida de la población en general
+b) Tratan de mejorar la calidad de vida de pacientes enfermos y evitar que empeoren
+c) Tratan de mejorar la enfermedad del paciente
+d) Buscan la realización de tratamientos de enfermedades en estados tempranos
+3- Los programas de salud:
+a) Van dirigidos fundamentalmente a personas deportistas
+b) No es necesario que tengan en cuenta su posterior evaluación
+c) Atienden aspectos de promoción y prevención
+d) Son fáciles de clasificar
+4- Es el determinante de salud que más influye sobre la salud de los países desarrollados
+a) La biología humana
+b) El medio ambiente
+c) Los hábitos y estilos de vida
+d) Ninguna de las respuestas es correcta
+5- El formador transmite los conocimientos de manera oral a un grupo grande de personas:
+a) En una mesa redonda
+b) En un debate
+c) En un diálogo
+d) En una lección magistral
+6- Cuando una persona se relaciona bien con los que le rodean (familiares, amigos, compañeros de trabajo) es que tiene:
+a) Buena salud psíquica
+b) Buena salud mental
+c) Buena salud emocional
+d) Buena salud social
+7- El modelo de las necesidades humanas que propone 5 grupos de necesidades ordenados jerárquicamente fue desarrollado por:
+a) Milton Terris
+b) Virginia Henderson
+c) La Organización Mundial de la Salud
+d) Abraham Maslow
+8- En el proceso de educación sanitaria
+a) El primer paso es analizar los determinantes de la conducta
+b) La última fase es la ejecución de la intervención
+c) La última fase es la evaluación de la intervención
+d) Son convenientes para comprobar si el uso de recursos múltiples es congruente y reforzante
+9- El modelo holístico establece 14 necesidades fundamentales. ¿Cuál de las siguientes no se refiere a una necesidad fundamental?
+a) Eliminar los productos de desecho
+b) Dormir y descansar
+c) Mantener la calma
+d) Nutrición e hidratación
+10- La presencia de un moderador es necesaria en:
+a) Estudio de casos
+b) Conferencia
+c) Una lección magistral
+d) Un debate
+11- Cuidar a una persona bajo el paradigma holístico significa atenderla en sus aspectos:
+a) Biológicos
+b) Psicológicos
+c) Sociales
 d) Todas son correctas
-3-​La ______ es el nivel principal de prevención, que actúa antes de la aparición de una enfermedad e incide en sus causas:
-a) Prevención primaria
-b) Prevención secundaria
-c) Prevención terciaria
-d) Ninguno
-4- La protección de la salud:
-a) Da a la población las pautas para llevar unos hábitos y un estilo de vida saludable
-b) Actúa sobre el medio ambiente, el agua y los alimentos
-c) Da a la población los medios necesarios para controlar y mejorar su propia salud
-d) Actúa sobre los individuos con el objetivo de impedir la aparición de enfermedades
-5- _______ tienen como misión principal velar por el cumplimiento de los derechos y deberes de los ciudadanos relacionados con la salud y la atención sanitaria:
-a) Las zonas básicas de salud
-b) Las unidades de atención al usuario
-c) Los equipos de enfermería
-d) Los equipos de atención primaria
-6- Señala la función básica de un hospital CORRECTA:
-a) Asistencial
-b) Docente
-c) Investigadora
+12- ¿Cuál de las siguientes es una de las características de la salud holística?
+a) Visión positiva
+b) Vida saludable
+c) Unicidad
 d) Todas son correctas
-7- Señala la actividad de atención primaria INCORRECTA:
-a) Hospitalización en régimen de internamiento
-b) Atención a la salud buco-dental
-c) Estudio de los problemas de salud en las Zonas Básicas de Salud
-d) Administración de curas, tratamientos parenterales y cirugía menor
-8- Señala la opción CORRECTA sobre la estructura de un hospital:
-a) La máxima responsabilidad de un hospital depende de la gerencia, liderada por un Director/a Gerente
-b) La división médica la componen todos los servicios que desarrollan funciones médico- asistenciales, de apoyo al diagnóstico y de apoyo al tratamiento
-c) La división de enfermería está formada por las unidades de enfermería del hospital que desarrollan su función en los diferentes servicios de la división médica y otros que precisan su atención
+13- Cuando hablamos de salud emocional, hace referencia a:
+a) Manejos responsable de los sentimientos, reconociéndolos, dándoles nombre, aceptándolos, integrándolos y aprovechando su energía al servicio de los valores
+b) Existe cuando una persona se relaciona bien consigo misma y con los demás
+c) Se trata de integrar conciencia de ser trascendente, conocimiento de los propios valores y respeto de la diversidad
+d) Ninguna de las respuestas anteriores es correcta
+14- Según Florence Nightingale los elementos que hay que controlar son:
+a) Dieta
+b) Tranquilidad
+c) Control de ruido y de los efluvios
 d) Todas son correctas
-9-Señala la opción CORRECTA sobre las etapas del Proceso de Atención de
-a) Valoración: obtención de datos de salud del paciente, subjetivos y objetivos
-b) Diagnóstico de enfermería: se lleva a cabo la estrategia diseñada, con el plan de cuidados y las actividades de enfermería destinadas
-c) Evaluación: se traza el plan con el que asiste al paciente y tratar su patología, definiendo objetivos a los que se llega mediante actividades de enfermería
-d) Ejecución: conclusión para diagnosticar una enfermedad o problemas de salud que pueden tratarse con actuaciones de enfermería
-10-¿Cúal es la etapa del Proceso de Atención de Enfermería (PAE) en la que se valora el resultado final y se compara lo obtenido con el objetivo marcado en el plan de cuidados?
-a) Ejecución
-b) Valoración
-c) Diagnóstico
-d) Evaluación
-11- En relación a la Historia Clínica, indica la afirmación INCORRECTA:
-a) La función principal es jurídico legal
-b) Los documentos están relacionados con las enfermedades y los problemas desalud del paciente
-c) Su función principal es la asistencial
-d) Es el conjunto de documentos generados a lo largo de la atención sanitaria a un paciente
-12- Señala el documento que pertenece a la Historia Clínica Hospitalaria:
-a) Informe de Urgencia
-b) Anamnesis y exploración física
-c) Valoración de enfermería
-d) Todos pertenecen a la Historia Clínica Hospitalaria
-13- Señala el documento que pertenece a la Historia Clínica en Atención Primaria:
-a) Informe de Urgencia
-b) Anamnesis y exploración física
-c) Valoración de enfermería
-d) Hoja de seguimiento de embarazo
-14- Señala el documento no clínico:
-a) Hoja de seguimiento de embarazo
-b) Gráfica de constantes
-c) Informe de urgencias
-d) Hoja de planificación de dietas
-15- El recibo es:
-a) El documento que informa al cliente del coste de determinados productos
-b) La solicitud formal y en firme al proveedor de un determinado material
-c) Un documento que confirma que hemos abonado una cantidad de dinero por un producto o servicio
-d) El documento mercantil que acredita la entrega del pedido, sirve como justificante
-16- En relación a la clasificación ABC, el grupo A:
-a) Son artículos de pequeño valor, pero de los que deben existir gran cantidad de unidades por su gran consumo
-b) Son los artículos caros con exigencias altas de almacenado
-c) Son artículos con una posición intermedia entre los otros dos grupos
-d) Los artículos de este grupo requieren un control intermedio
-17- En cuanto la valoración de existencias, señala la afirmación INCORRECTA:
-a) El método FIFO se traduce como “el primero que entra es el primero que sale”
-b) El método LIFO se traduce como “ el último que entra, el primero que sale”
-c) El método ETS es el más utilizado
-d) El método PMP significa Precio Medio Ponderado
-18- El stock normal o activo:
-a) Hace alta para atender un aumento de demanda
-b) Hace falta para abaratar costes por compra de grandes cantidades
-c) Es el necesario para mantener la actividad de la organización
-d) Ninguna de las afirmaciones es correcta
-19- Señala la opción CORRECTA sobre la ficha de almacén:
-a) A través de ella se lleva a cabo el registro continuo de entradas y salidas de mercancías
-b) La ficha puede ser un documento físico, por ejemplo una cartulina
-c) Puede realizarse mediante un programa informático de gestión de almacenes
-d) Todas las opciones son correctas
-20- El inventario rotativo:
-a) Se revisan diariamente las existencias de los artículos que han registrado movimiento durante la jornada
-b) Se realiza un inventario parcial con frecuencias establecidas según el valor de los artículos
-c) Es el mínimo que tienen establecido todas las organizaciones
-d) Ninguna es correcta
+15- Para Virginia Henderson la persona es un todo complejo que tiene 14 necesidades básicas, entre las que se encuentra:
+a) Dormir y descansar
+b) Actividades recreativas
+c) Hacer ejercicio de forma intensa
+d) A y B son correctas
+16- En el modelo humanista, según Maslow, las necesidades de adaptación social se encuentran:
+a) Por encima de la autoestima
+b) En la base de la pirámide
+c) Por encima de las necesidades básicas o fisiológicas y las necesidades de seguridad
+d) Por encima de la autorrealización
+17- La salud óptima:
+a) Se encuentra en el extremo derecho del gráfico
+b) Implica un nivel máximo de bienestar y de capacidad funcional
+c) Resulta complicado diferenciar entre lo normal de lo patológico
+d) A y B son correctas
+18- En los programas para la población enferma encontramos:
+a) Adolescentes
+b) Personas mayores
+c) Familiares de enfermos
+d) Infancia
+19- ¿Cuál de los siguientes es un agente de la educación para la salud?
+a) Comunicadores
+b) Docentes
+c) Personal sanitario
+d) Todas son correctas
+20- Forma parte de las fases de planificación en sanidad:
+a) Análisis del problema y su relación con la conducta
+b) Análisis de los determinantes de la conducta
+c) Ejecución de la intervención
+d) Todas son correctas

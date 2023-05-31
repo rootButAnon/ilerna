@@ -9,9 +9,9 @@ function readFile(fileName){
   }else if(fileName == ''){
     
   }
-  const correctAnswersTest1= 'a,d,a,b,b,a,a,d,a,d,a,d,d,d,c,b,c,c,d,b'.split(',')
-  const correctAnswersTest2= 'b,d,b,d,c,c,b,d,c,d,d,c,a,d,d,d,d,d,b,b'.split(',')
-  const correctAnswersTest3= 'd,d,c,d,d,a,a,c,a,d,a,d,a,b,d,a,d,a,c,c'.split(',')
+  const correctAnswersTest1= 'd,a,c,c,d,d,d,c,c,d,d,d,a,d,d,c,d,c,d,d'.split(',')
+  const correctAnswersTest2= 'd,c,c,c,d,d,d,c,a,b,d,b,c,d,d,a,d,c,a,d'.split(',')
+  const correctAnswersTest3= 'c,a,d,c,b,c,b,c,b,a,d,d,a,a,d,c,d,c,a,b'.split(',')
 
     const questions = [];
     fetch(fileName)
@@ -40,7 +40,7 @@ function readFile(fileName){
     
     if(test == 'test1'){
       pregunta.setAttribute('correctOne',correctAnswersTest1[counter-1])
-      if(counter == 13){
+     /* if(counter == 13){
         let parrafo = document.createElement ('div')
         parrafo.innerHTML = `<p><b>Situación preguntas 13, 14 y 15</b></p>
         <p><b>Un anciano llega al hospital con defecaciones muy escasas y dolorosas. Se
@@ -54,10 +54,10 @@ function readFile(fileName){
         let img = document.createElement('img')
         img.src = './img/test1-18.png'
         parrafo.appendChild(img)    
-      }
+      }*/
     }else if(test == 'test2'){
       pregunta.setAttribute('correctOne',correctAnswersTest2[counter-1])
-      if(counter == 13){
+      /*if(counter == 13){
         let parrafo = document.createElement ('div')
         parrafo.innerHTML = `<p><b>Situación preguntas 13, 14 y 15</b></p>
         <b>Estamos trabajando en el hospital de nuestra ciudad, nos comenta la enfermera que
@@ -70,10 +70,10 @@ le tenemos que dar a Marcos una pastilla de paracetamol.</b> `
         let img = document.createElement('img')
         img.src = './img/test2-18.png'
         parrafo.appendChild(img)    
-      }
+      }*/
     }else if(test == 'test3'){
       pregunta.setAttribute('correctOne',correctAnswersTest3[counter-1])
-      if(counter == 13){
+      /*if(counter == 13){
         let parrafo = document.createElement ('div')
         parrafo.innerHTML = `<p><b>Situación preguntas 13, 14 y 15</b></p>
         <p><b>Estamos trabajando en el hospital de nuestra ciudad, nos comenta la enfermera
@@ -87,7 +87,7 @@ le tenemos que dar a Marcos una pastilla de paracetamol.</b> `
         let img = document.createElement('img')
         img.src = './img/test3-18.png'
         parrafo.appendChild(img)     
-      }
+      }*/
     }
     pregunta.setAttribute('answerb',element.answer.b)
     pregunta.setAttribute('answerc',element.answer.c)
@@ -125,6 +125,7 @@ function corregirTest(event){
       solution.appendChild(marcaIncorrecta) 
 
       let textoIncorrecto = document.createElement('div')
+      textoIncorrecto.className = 'redText'
       textoIncorrecto.innerHTML= '<p>LA RESPUESTA CORRECTA ES LA ' + identificador.split('-')[2] + '</p>'
       solution.appendChild(textoIncorrecto) 
     }

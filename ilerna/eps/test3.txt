@@ -1,0 +1,100 @@
+1- Relacionado con la estructura del sistema sanitario ¿qué organismo tiene a su cargo un servicio de salud autonómico o regional que incluye los centros de Diputación y ayuntamientos?:
+a) El Instituto Nacional de Gestión Sanitaria b) El Consejo Interterritorial de Salud
+c) El Ministerio
+d) Las Comunidades Autónomas
+2- La Organización Mundial de la Salud:
+a) Es el encargado de coordinar las decisiones del Ministerio con los servicios de salud de las comunidades autónomas
+b) Presta exclusivamente atención primaria
+c) Tiene a su cargo un servicio de salud autonómico o regional que incluye los centros de Diputación y ayuntamientos
+d) Es un Organismo del sistema de las Naciones Unidas (ONU) que lidera los asuntos sanitarios internacionales
+3- La _____ es el conjunto de medidas destinadas al tratamiento y la rehabilitación de una enfermedad desarrollada.
+a) Prevención primaria
+b) Prevención secundaria 
+c) Prevención terciaria
+d) Ninguno
+4- ______ es un punto de acogida, información y orientación.
+a) El proceso de atención de enfermería 
+b) El equipo de enfermería
+c) El equipo de atención primaria
+d) La unidad de atención al usuario
+ 5- La tasa de mortalidad específica por edad:
+a) Obtiene el número de defunciones en un año, de cualquier edad y cualquier causa, en un grupo de población determinado
+b) Es el porcentaje de defunciones de personas mayores de 50 años, respecto a los otros fallecimientos de cualquier edad en un año
+c) Obtiene el número de defunciones en un año y en una población, como consecuencia de una enfermedad determinada
+d) Obtiene el número de defunciones en un año de una edad o franja de edades determinada
+6- En relación con las funciones básicas de un hospital, la atención a la saludmental forma parte de la función:
+a) Asistencial
+b) Docente
+c) Comercial
+d) Investigadora
+7- Relacionado con la estructura de un hospital, el máximo responsable de un hospital es:
+a) El Director Gerente
+b) El Director Médico
+c) El Director de Enfermería 
+d) El Director de Gestión
+8- En relación con la estructura de un hospital, ¿qué división la componen todos los servicios que desarrollan funciones médico-asistenciales, de apoyo a diagnóstico y apoyo al tratamiento?:
+a) La división de enfermería 
+b) La división de gestión
+c) La división médica
+d) La gerencia
+9- El Equipo de Atención Primaria (EAP):
+a) Es un conjunto pluridisciplinar de profesionales sanitarios y no sanitarios responsables de la atención primaria en la población que tienen asignada
+b) Estáformado por todas las unidades de enfermería del hospital
+c) Es un punto de acogida, información y orientación
+d) Proporciona soporte administrativo y técnico al resto de divisiones hospitalarias
+10- Señala la opción CORRECTA sobre el Proceso de Atención de Enfermería (PAE):
+a) Es un plan de actuación en los cuidados
+b) Sigue un orden lógico y sistemático
+c) Las etapas son: valoración, diagnóstico de enfermería, planificación, ejecución,
+evaluación
+d) Todas son correctas
+11- Señala el documento que pertenece a la Historia Clínica Hospitalaria:
+a) Informe de Urgencias
+b) Lista de problemas
+c) Hoja de seguimiento de embarazo
+d) Hoja de seguimiento de ancianos
+12- Señala el documento que pertenece a la Historia Clínica en Atención Primaria:
+a) Lista de problemas
+b) Hoja de seguimiento de embarazo 
+c) Hoja de seguimiento de ancianos 
+d) Todos los anteriores
+13- Señala el documento no clínico:
+a) Hoja de petición de ropa de lencería 
+b) Hoja de seguimiento de embarazo 
+c) Gráfica de constantes
+d) Informe de urgencia
+14- Relacionado con el mantenimiento y conservación de la historia clínica, el archivo pasivo:
+a) Está compuesto por las documentaciones que han sido modificadas o actualizadas recientemente
+b) Está integrado por aquellas historias que no han circulado en los últimos cinco años
+c) Está integrado por aquellas historias que no han circulado en los últimos veinte años
+d) Son los documentos de los pacientes fallecidos
+15- En relación con la economía sanitaria, el sector público:
+a) Su principal objetivo es la prestación de servicios
+b) Se financia mediante los impuestos de los ciudadanos
+c) La contabilidad se rige por el Plan General de Contabilidad Pública 
+d) Todas son correctas
+16- Señala la función del almacén INCORRECTA:
+a) Generar deterioros en las existencias almacenada
+b) Recibir y registrar los materiales
+c) Establecer una adecuada rotación de stocks
+d) Distribuir adecuadamente los artículos a los servicios o unidades que los soliciten
+17- En relación con la clasificación ABC, el grupo A:
+a) Son los artículos caros
+b) Suponen un pequeño porcentaje del total de productos 
+c) Deben ser especialmente controlados
+d) Todas las afirmaciones son correctas
+18- Relacionado con la valoración de existencias, el método FIFO se traduce como:
+a) El primero que entra es el primero que sale 
+b) El último que entra, el primero que sale
+c) Precio Medio Moderado
+d) Stock normal
+19- En relación con el control y reposición de existencias en un almacén, el punto depedido:
+a) Es el necesario para mantener la actividad de la organización
+b) Hace falta para atender un aumento de demanda
+c) Es el momento en el que se debe realizar comanda de un determinado artículo
+d) Es el tope de un producto que puede ser almacenado teniendo en cuenta la capacidad del almacén y los costes que se producen por el volumen decompra y su almacenamiento
+20- En relación con el control y reposición de existencias en un almacén, elinventario anual:
+a) Se revisan diariamente las existencias de los artículos que han registrado movimiento durante la jornada
+b) Se realiza un inventario parcial con frecuencias establecidas según el valor de los artículos
+c) Es el mínimo que tienen establecido todas las organizaciones
+d) Ninguna es correcta
