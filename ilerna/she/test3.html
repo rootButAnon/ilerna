@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Test 2 Orientacion adm</title>
+    <title>Test 3 Orientacion adm</title>
     <script src="../pregunta.js"></script>
     <style>
       body {
@@ -37,17 +37,53 @@
       .badQuestion {
         border: 4px solid rgb(103, 57, 57);
       }
+      #result{
+        padding :2%;
+        border-radius : 4px;
+      }
+      .solution{
+        display:flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: center;
+      }
+      .crossCustom {
+        width: 10px;
+        height: 10px;
+        position: relative;
+      }
+      
+      .crossCustom::before,
+      .crossCustom::after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: red;
+      }
+      
+      .crossCustom::before {
+        width: 70%;
+        height: 10px;
+      }
+      
+      .crossCustom::after {
+        width: 10px;
+        height: 70%;
+      }
     </style>
   </head>
   <body>
-    <h1>Test 2</h1>
+    <h1>Test 3 - El Ser Humano Ante la Enfermedad</h1>
     <main>
     <button class="corregirButton" id="corregir" onclick="corregirTest(event)">Corregir</button>
       <div class="tablaPreguntas" id="tablaPreguntas">
         
       </div>
-      <div id="result">
-        <h2>Por aquí tienes el resultado del test</h2>
+      <div id="result" class="fixed-bottom">
+        <p>Por aqúí tienes el resultado del test</p>
         <p id="resultado"></p>
       </div>
       <button class="corregirButton" id="Corregir" onclick="corregirTest(event)">Corregir</button>
@@ -55,11 +91,23 @@
 
     <script src="../content.js"></script>
     <script>
-      readFile("./test2.txt");
+      readFile("./test3.txt");
       document.addEventListener('correccion', function (event){
         console.log('Recibido')
         console.log(event.detail)
       })
+
+      window.addEventListener('scroll', function() {
+        var fixedBottom = document.getElementById('result');
+        var rect = fixedBottom.getBoundingClientRect();
+        console.log(rect)
+        
+        if (rect.top >= window.innerHeight || rect.bottom <= 649) {
+          fixedBottom.classList.add('bottom');
+        } else {
+          fixedBottom.classList.remove('bottom');
+        }
+      });
     </script>
   </body>
 </html>

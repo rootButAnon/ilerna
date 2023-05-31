@@ -3,8 +3,7 @@ a. Enfermedad autoinmune.
 b. Enfermedad inflamatoria.
 c. Enfermedad infecciosa.
 d. Enfermedad inmunológica.
-2.- El cartílago hialino está compuesto por fibrillas de colágeno tipo II dispuestas
-en red de amplias mallas y se encuentran en:
+2.- El cartílago hialino está compuesto por fibrillas de colágeno tipo II dispuestas en red de amplias mallas y se encuentran en:
 a. La laringe, los bronquios y la tráquea.
 b. Todas son correctas.
 c. Articulación de la rodilla.
@@ -23,3 +22,79 @@ d. Se recoge mediante una punción lumbar y solamente cuando se sospecha de una 
 a. Sangre de tipo A+, Ab. Sangre de tipo A+, A-, 0+, 0-
 c. Sangre de tipo A-, 0-
 d. Sangre de tipo A+, 0+
+6.- La persona está tumbada, apoyándose sobre el lateral del tórax y la parte anterior de la cadera. ¿Cómo se nombra esta posición?
+a. Pronación 3/4.
+a. Posición de fowler.
+b. Ninguna es correcta.
+c. Decúbito lateral.
+7.- Los hemocultivos se deben de conservar en estufas a temperaturas:
+a. Entre 35 y 38º.
+b. Entre 33 y 38º.
+c. Entre 32 y 34º.
+d. Entre 38 y 40º.
+8.- Si un fármaco se metaboliza en el hígado, después pasa a sistema biliar y después al intestino, tiene un sistema de excreción:
+a. Hepático- renal.
+b. Renal-entérico.
+c. Biliar-entérico.
+d. Hepático-entérico.
+9.- Para recoger una muestra de exudado se precisa:
+a. Ninguna es correcta.
+b. Un recipiente de boca ancha, limpio y seco.
+c. Un tubo de vidrio estéril.
+d. Una torunda de algodón estéril.
+10.- El síntoma es:
+a. El patrón de la enfermedad.
+b. Una operación realizada para curar o aliviar el dolor.
+c. La manifestación de una alteración orgánica, proporcionada por el paciente y , a veces, apreciable por el médico.
+d. Un conjunto de signos y síntomas de una misma enfermedad.
+11.- A un paciente con esquizofrenia se le está tratando con un tipo de fármaco. ¿A qué familia pertenecen?
+a. Sedantes.
+b. Hipnóticos.
+c. Ansiolíticos.
+d. Neurolépticos.
+12.- El dolor de ciática se da por lesión directa sobre el nervio, siendo éste un dolor:
+a. Nociceptivo.
+b. Todas son correctas.
+c. Somático.
+d. Neuropático.
+13.- ¿Qué tipo de vía utilizarás para administrar el medicamento?
+a. Vía rectal
+b. Vía ótica
+c. Vía oftálmica
+d. Vía respiratoria
+14.- Colocarás al paciente en:
+a. Posición de Fowler
+b. Posición de decúbito supino
+c. Posición de decúbito prono
+d. Posición SIMS
+15.- Una vez añadimos la dosis de medicamento pautadas en la cámara deberás:
+a. Conectar el nebulizador al oxígeno o compresor, poner en marcha y acoplar el nebulizador a la mascarilla
+b. Acoplar el nebulizador a la mascarilla, conectar el oxígeno o compresor y poner en marcha
+c. Poner en marcha, conectar al oxígeno o compresor y acoplar el nebulizador
+a la mascarilla
+d. Acoplar el nebulizador a la mascarilla, poner en marcha y conectar al oxígeno o compresor
+16.- La prueba que determina el volumen de aire o ventilación pulmonar del paciente en una respiración normal o forzada es:
+a. Una pulsioximetría.
+b. Una espirometría.
+c. Una gasometría arterial
+d. Una ergometría o prueba de esfuerzo.
+17.- Los fármacos que se utilizan para los trastornos psíquicos son:
+a. Espasmolíticos.
+b. Los neurolépticos
+c. Los antiepilépticos.
+d. Los analgésicos.
+18- Con respecto a la siguiente imagen, indica para qué exploración/técnica sería indicada:
+a. Cirugía de cadera
+b. Cirugía dorsal
+c. Cirugía abdominal
+d. Intervención ginecológica
+19.- La espina bífida es una:
+a. Enfermedad infecciosa.
+b. Enfermedad inflamatoria.
+c. Malformación congénita.
+d. Enfermedad vascular.
+20.- Las bombas de iones son transportes activos, ¿Verdadero o falso?:
+a. Verdadero, y transporta macromoléculas
+b. Falso, es un transporte pasivo
+c. Verdadero, y transporta agua
+d. verdadero, y utiliza proteínas integrales de membrana
