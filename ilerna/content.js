@@ -120,9 +120,9 @@ function corregirTest(event){
       let solution = document.createElement('div')
       solution.className = 'solution'
       pregunta.appendChild(solution)
-      let marcaIncorrecta = document.createElement('div')
+      /*let marcaIncorrecta = document.createElement('div')
       marcaIncorrecta.className = 'crossCustom'
-      solution.appendChild(marcaIncorrecta) 
+      solution.appendChild(marcaIncorrecta) */
 
       let textoIncorrecto = document.createElement('div')
       textoIncorrecto.className = 'redText'
